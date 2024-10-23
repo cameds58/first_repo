@@ -1,7 +1,8 @@
-def my_function():
-    print("Hello from my_function!")
 
 import math
+
+def my_function():
+    print("Hello from my_function!")
 
 def my_financial_calculator(calculator_type: str):
     # Calculate the investment in simple or compound interest
